@@ -1,6 +1,6 @@
 ### Oi! eu sou o Marcelo 👋
 
-- 💻 Desenvolvedor Full-stack
+- 💻 Desenvolvedor Front-end
 - 📚 Estudando HTML, CSS e JavaScript
 
 <div align="left
