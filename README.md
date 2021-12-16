@@ -1,7 +1,7 @@
-### Oi! eu sou o Marcelo 👋
+### Hey! I'm Marcelo Vieira 👋
 
-- 💻 Desenvolvedor Front-end
-- 📚 Estudando HTML, CSS e JavaScript
+- 💻 Front-end Developer
+- 📚 I'm studying HTML, CSS e JavaScript
 
 <div align="left
   <a href="https://github.com/marcelo23vds">
