@@ -1,7 +1,7 @@
 ### Hey! I'm Marcelo Vieira 👋
 
-- 💻 Full-stack Developer
-- 📚 I'm studying HTML / CSS / JavaScript / React / Python
+- 💻 Front-end Developer
+- 📚 I'm studying HTML / CSS / JavaScript / React
 
 <div align="left
   <a href="https://github.com/marcelo23vds">
