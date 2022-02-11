@@ -1,7 +1,7 @@
-### Hey! I'm Marcelo Vieira 👋
+### Oi! eu sou o Marcelo 👋
 
-- 💻 Web Developer
-- 📚 I'm studying React / Node.js
+- 💻 Desenvolvedor Web
+- 📚 Atualmente meu foco dos estudos é o React
 
 <div align="left
   <a href="https://github.com/marcelo23vds">
