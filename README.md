@@ -1,7 +1,6 @@
 ### Oi! eu sou o Marcelo 👋
 
 - 💻 Desenvolvedor Web
-- 📚 Atualmente meu foco dos estudos é o React
 
 <div align="left
   <a href="https://github.com/marcelo23vds">
