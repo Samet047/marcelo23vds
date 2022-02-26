@@ -1,4 +1,4 @@
-### Olá! eu sou o Marcelo 👋
+### Olá, me chamo Marcelo!
 
 - 💻 Desenvolvedor Web
 
