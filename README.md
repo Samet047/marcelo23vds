@@ -1,4 +1,4 @@
-### Olá, meu nome Marcelo Vieira!
+### Olá, meu nome é Marcelo Vieira!
 
 - 💻 Desenvolvedor Web
 
