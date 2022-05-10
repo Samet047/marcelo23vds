@@ -13,7 +13,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>  
+  <img align="right" alt="logo Marcelo Vieira" height="50" width="50" src="https://cdn.discordapp.com/attachments/841427610843611136/973720366683938846/logoblue.png">
+</div>
 
 ##
   
