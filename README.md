@@ -1,7 +1,7 @@
 ### Olá, meu nome é Marcelo Vieira!
 
 - 💻 Estudante de programação
-- 📰 Desenvolvimento Web
+- 📰 Desenvolvimento Web Front-end
 
 <div align="left">
   <a href="https://github.com/marcelo23vds">
