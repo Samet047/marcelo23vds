@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marcelo Vieira!
 
-- 💻 Atualmente estudando Python
+- 💻 Estudande de Programação
 - 📰 Técnico em Redes de Computadores
 
 <div align="left">
